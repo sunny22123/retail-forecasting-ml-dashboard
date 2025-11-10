@@ -5,7 +5,6 @@ It transforms transactional data into actionable insights, helping retailers opt
 
 Dataset: Online Retail — UCI Machine Learning Repository (Dec 2010–Dec 2011)
 
----
 
 ## Features
 
@@ -27,25 +26,15 @@ Dataset: Online Retail — UCI Machine Learning Repository (Dec 2010–Dec 2011)
 - Reduce forecasting guesswork
 - Increase inventory turnover efficiency
 
----
 
 ## Architecture Overview
 
 Online Retail Dataset (Raw CSV/XLSX)
-│
-▼
 Data Processing & Cleaning (Python / Pandas)
-│
-▼
 Time Series Forecasting (ETS / ARIMA / Prophet tested)
-│
-▼
 Model Evaluation (MAPE / RMSE / MAE)
-│
-▼
 Dashboard Visualization (Figma wireframe → interactive UI later)
 
----
 
 ## Models & Evaluation
 
@@ -58,8 +47,6 @@ Dashboard Visualization (Figma wireframe → interactive UI later)
 
 > **ETS Additive consistently outperformed all other models** across revenue, product-level demand, and order count forecasting.
 
----
-
 ## Output examples
 
 - Weekly revenue forecasting
@@ -68,7 +55,6 @@ Dashboard Visualization (Figma wireframe → interactive UI later)
 
 Screenshots of visualizations are included in the `/dashboard` folder.
 
----
 
 ## Tech Stack
 
@@ -79,7 +65,6 @@ Screenshots of visualizations are included in the `/dashboard` folder.
 | Visualization | Matplotlib, Seaborn |
 | Dashboard | Figma (UI concept), future: Streamlit / React |
 
----
 
 ## 👥 Team
 
