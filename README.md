@@ -54,6 +54,8 @@ Dashboard Visualization (Figma wireframe → interactive UI later)
 | ARIMA Non-seasonal | No     | Moderate |
 | ETS Multiplicative | Yes    | Performs poorly on this dataset |
 
+![Result](https://github.com/sunny22123/retail-forecasting-ml-dashboard/blob/main/result_1.png)
+
 > **ETS Additive consistently outperformed all other models** across revenue, product-level demand, and order count forecasting.
 
 ## Output examples
