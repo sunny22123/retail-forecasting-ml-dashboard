@@ -21,6 +21,15 @@ Dataset: Online Retail — UCI Machine Learning Repository (Dec 2010–Dec 2011)
 - Orders page (pagination, status tracking)
 - Inventory page (stock visibility & restock actions)
 
+### Dashboard
+![Dashboard](https://raw.githubusercontent.com/sunny22123/retail-forecasting-ml-dashboard/main/wireframe/1.png)
+
+### Orders Page
+![Orders](https://raw.githubusercontent.com/sunny22123/retail-forecasting-ml-dashboard/main/wireframe/2.png)
+
+### Inventory Page
+![Inventory](https://raw.githubusercontent.com/sunny22123/retail-forecasting-ml-dashboard/main/wireframe/3.png)
+
 ### Business Impact
 - Prevent stockouts and overstocking
 - Reduce forecasting guesswork
